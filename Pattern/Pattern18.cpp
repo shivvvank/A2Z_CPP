@@ -1,3 +1,15 @@
+/*
+
+F
+EF
+DEF
+CDEF
+BCDEF
+ABCDEF
+
+*/
+
+
 #include<iostream>
 using namespace std;
  

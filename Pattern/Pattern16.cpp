@@ -1,3 +1,13 @@
+/*
+
+A
+BB
+CCC
+DDDD
+EEEEE
+FFFFFF
+
+*/
 #include<iostream>
 using namespace std;
  

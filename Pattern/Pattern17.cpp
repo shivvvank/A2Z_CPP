@@ -1,3 +1,13 @@
+/*
+
+     A
+    ABA
+   ABCBA
+  ABCDCBA
+ ABCDEDCBA
+ABCDEFEDCBA
+
+*/
 #include<iostream>
 using namespace std;
  

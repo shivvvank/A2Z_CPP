@@ -14,6 +14,7 @@ void solve()
             break;
         }
     }
+    cout<<1<<endl;
 }
 Recursion
 */

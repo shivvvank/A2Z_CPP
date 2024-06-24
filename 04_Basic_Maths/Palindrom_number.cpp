@@ -12,7 +12,10 @@ void solve()
         rev = rev*10 + n%10;
         n/=10;
     }
-    cout<<rev<<endl;
+    if(rev == m)
+        cout<<"Palindrome"<<endl;
+    else 
+        cout<<"Not a palindrome"<<endl;
 }
  
 int main()
